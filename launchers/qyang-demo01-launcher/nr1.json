@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "qyang-demo01-launcher",
+    "displayName": "QyangDemo01Launcher",
+    "description": "Describe me",
+    "rootNerdletId": "qyang-demo01-nerdlet"
+}
